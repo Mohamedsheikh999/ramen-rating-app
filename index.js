@@ -1,8 +1,10 @@
 // Data Stub
 const ramens = [
-    { id: 1, name: "Shoyu Ramen", restaurant: "Ichiran", image: "shoyu.jpg", rating: 5, comment: "Delicious!" },
-    { id: 2, name: "Miso Ramen", restaurant: "Menya", image: "miso.jpg", rating: 4, comment: "Very flavorful!" },
-    { id: 3, name: "Tonkotsu Ramen", restaurant: "Ramen-ya", image: "tonkotsu.jpg", rating: 3, comment: "Good but needs more flavor." }
+    { id: 1, name: "Shoyu Ramen", restaurant: "Ichiran", image: "images/bon-vivant-qom5MPOER-I-unsplash.jpg", rating: 5, comment: "Delicious!" },
+    { id: 2, name: "Miso Ramen", restaurant: "Menya", image: "images/diego-lozano-mE6kjov4rTg-unsplash.jpg", rating: 4, comment: "Very flavorful!" },
+    { id: 3, name: "Tonkotsu Ramen", restaurant: "Ramen-ya", image: "images/mae-mu-H5Hj8QV2Tx4-unsplash.jpg", rating: 3, comment: "Good but needs more flavor." },
+    { id: 4, name: "Miso", restaurant: "Ramen-ya", image: "images/michele-blackwell-rAyCBQTH7ws-unsplash.jpg", rating: 3, comment: "Good but needs more flavor." },
+    
 ];
 
 // Function to display all ramens as images
